@@ -3,8 +3,8 @@ var config = {
     // 下面的句子不一定非要7句， 你也可以改成4句，2句话都可以
     lines: [
         "亲爱的老婆",
-        "花开一季，有落红为证",
-        "逝去的岁月，如何能托于烟尘",
+        "I love you, Not only for what you are, But for what I am, When I am with you.",
+        "I love you, Not only for what you have made of yourself, But for what you are making of me.",
         "你的浅笑，是我永生眷恋",
         "相思的真情，是否能明白一二",
         "亲爱的老婆，你是我的唯一",
