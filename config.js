@@ -10,6 +10,7 @@ var config = {
         "I love you, Because you are helping me to make of the lumber of my life",
         "Not a tavern, But a temple;",
         "Not a reproach, But a song.",
+        "That, I love you...",
     ],
     // 相爱的时间 记住格式不能写错了, 非常重要
     // 格式一定要和下面这个时间格式一样
