@@ -5,9 +5,9 @@ var config = {
         "亲爱的老婆",
         "I love you, Not only for what you are, But for what I am, When I am with you.",
         "I love you, Not only for what you have made of yourself, But for what you are making of me.",
-        "你的浅笑，是我永生眷恋",
-        "相思的真情，是否能明白一二",
-        "亲爱的老婆，你是我的唯一",
+        "I love you, For the part of me That you bring out;",
+        "I love you, For putting your hand Into my heaped-up heart, And passing over",
+        "All the foolish, weak things, That you can’t help",
         "爱你永远。。。",
     ],
     // 相爱的时间 记住格式不能写错了, 非常重要
