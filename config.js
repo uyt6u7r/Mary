@@ -2,14 +2,14 @@
 var config = {
     // 下面的句子不一定非要7句， 你也可以改成4句，2句话都可以
     lines: [
-        "亲爱的老婆",
-        "I love you, Not only for what you are, But for what I am, When I am with you.",
-        "I love you, Not only for what you have made of yourself, But for what you are making of me.",
-        "I love you, For putting your hand into my heaped-up heart, And passing over all the foolish, weak things, That you can’t help",
-        "Dimly seeing there, And for drawing out into the light, All the beautiful belongings that no one else had looked quite far enough",
-        "I love you, Because you are helping me to make of the lumber of my life",
-        "Not a tavern, But a temple;",
-        "Not a reproach, But a song.",
+        "致Mary",
+        "曾经的爱如夏日长河流淌，",
+        "分岔路口却不得不走向不同的方向。",
+        "笑脸背后暗藏着无声的伤，双眼却望见泪中闪着彩虹色的光。",
+        "愿你如松，坚韧不倔，从不后望",
+        "当我转身回首，我会记得你的眼光，每一次微笑，每一刻的深情相望",
+        "即使人海茫茫，彼此的回音会在心中永远回荡",
+        "这并非永别或是挽留，只是我深深的祝愿，愿你一生幸福，安好无忘",
        // "That, I love you...",
     ],
     // 相爱的时间 记住格式不能写错了, 非常重要
@@ -20,5 +20,5 @@ var config = {
     //          2.T不能丢了
     date: "2021-09-14T00:00:00",
     // 双方的名字
-    names: ["最疼我的小鸭鸭老婆", "最疼我的熊熊老公"]
+    names: ["鸭鸭", "熊熊"]
 }
